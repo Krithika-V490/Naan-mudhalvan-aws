@@ -114,4 +114,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any queries or feedback, please contact:
 - Name: Krithika V
-- Email: krithika@example.com
+- Email: krithikav045@gmail.com
