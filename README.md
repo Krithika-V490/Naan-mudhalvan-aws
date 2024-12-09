@@ -1,5 +1,9 @@
 
 # AWS Virtual Classroom
+---
+[![Watch the video](https://img.youtube.com/vi/FklsON2OdoM/0.jpg)](https://youtu.be/FklsON2OdoM)
+
+---
 
 ## Overview
 This project implements a web-based virtual classroom platform using **Flask** and integrates cloud services from **AWS**. It allows users to securely register, log in, and access course materials hosted on AWS S3. The application is backed by a MySQL database hosted on AWS RDS, ensuring scalability and security.
